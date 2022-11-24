@@ -2,4 +2,8 @@ git is fast version control system
 this is my task two
 git is light weight
 git is widely used tool
+<<<<<<< HEAD
 git is easy to work with
+=======
+git is nice tool
+>>>>>>> refs/remotes/origin/main
